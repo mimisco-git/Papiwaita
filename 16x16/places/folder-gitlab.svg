@@ -1,8 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="scale(.75)">
+  <path d="m61.122 15.88c0-2.762-2.239-5-5-5h-48.244c-2.761 0-5 2.238-5 5v32.246c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-32.246z" style="fill:rgb(0,131,213)"/>
+  <path d="m61.122 20.652c0-1.326-0.527-2.598-1.465-3.536-0.938-0.937-2.209-1.464-3.535-1.464h-25.58c-1.232 0-2.42-0.455-3.337-1.277-0.768-0.689-1.713-1.535-2.481-2.224-0.917-0.822-2.105-1.277-3.337-1.277h-13.509c-1.326 0-2.597 0.527-3.535 1.465-0.938 0.937-1.465 2.209-1.465 3.535v32.252c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-27.474z" style="fill:url(#_Linear1)"/>
+  <path d="m22.695 21.81c-0.227 0-0.454 0.128-0.539 0.386l-3.025 9.069h7.397l-3.294-9.069c-0.086-0.258-0.312-0.386-0.539-0.386zm3.833 9.455 5.472 17.56 5.472-17.56h-10.944zm10.944 0h7.397l-3.025-9.069c-0.168-0.514-0.907-0.514-1.078 0l-3.294 9.069zm7.397 0-12.869 17.56 14.391-10.32c0.397-0.283 0.563-0.789 0.412-1.249l-1.934-5.991zm-12.869 17.56-12.869-17.56-1.934 5.991c-0.151 0.46 0.015 0.966 0.412 1.249l14.391 10.32z" style="fill:url(#_Linear2)"/>
+ </g>
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.54933e-15,-41.6338,41.6338,2.54933e-15,445.153,52.7218)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(16,117,246)" offset="0"/>
+   <stop style="stop-color:rgb(18,197,255)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(1.6542e-15,27.0152,-27.0152,1.6542e-15,-557.202,21.8099)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(18,108,152)" offset="0"/>
+   <stop style="stop-color:rgb(11,79,148)" offset="1"/>
+  </linearGradient>
  </defs>
- <path style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Text" d="m 2.9905013,1.0009562 c -0.1221924,0 -0.2453697,0.065765 -0.2910003,0.1992052 L 0.92615958,6.0006147 H 5.0548432 L 3.2795478,1.2001614 C 3.2339002,1.0667204 3.1126928,1.0009562 2.9905013,1.0009562 Z M 5.0548432,6.0006147 7.9999966,15 10.945151,6.0006147 Z m 5.8903078,0 h 4.128684 L 13.300493,1.2001614 c -0.09126,-0.26688187 -0.488742,-0.26688187 -0.580047,0 z m 4.128684,0 L 7.9999966,15 15.747627,9.6527091 c 0.213791,-0.1474999 0.30429,-0.4096895 0.222644,-0.6483933 z M 7.9999966,15 0.92615958,6.0006147 0.02972286,9.0043158 c -0.0816456,0.2387038 0.0088995,0.5008934 0.22264401,0.6483933 z"/>
 </svg>

@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,1 C 2.446,1 2,1.446 2,2 V 11 H 3 V 10 H 4 V 3 H 9 V 6 H 12 V 14 15 H 13 V 14 H 14 V 5 L 10,1 Z M 13,15 V 16 H 14 V 15 Z M 12,15 H 11 V 16 H 12 Z M 11,15 V 14 H 10 V 15 Z M 10,15 H 9 V 16 H 10 Z M 9,15 V 14 H 8 V 15 Z M 8,15 H 7 V 16 H 8 Z M 7,15 V 14 H 6 V 15 Z M 6,15 H 5 V 16 H 6 Z M 5,15 V 14 H 4 V 15 Z M 4,15 H 3 V 16 H 4 Z M 3,15 V 14 H 2 V 15 Z M 3,14 H 4 V 13 H 3 Z M 3,13 V 12 H 2 V 13 Z M 3,12 H 4 V 11 H 3 Z"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -31.2253 31.2253 0 1309.88 39.1999)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1075f6" offset="0"/>
+  <stop stop-color="#12c5ff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 20.5904 -20.5904 0 -1423 15.0882)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#126c98" offset="0"/>
+  <stop stop-color="#0b4f94" offset="1"/>
+ </linearGradient>
+ <path d="m45.841 11.91c0-2.072-1.679-3.75-3.75-3.75h-36.183c-2.07 0-3.75 1.678-3.75 3.75v24.185c0 2.07 1.68 3.75 3.75 3.75h36.183c2.071 0 3.75-1.68 3.75-3.75z" fill="#0083d5"/>
+ <path d="m45.841 15.148c0-.995-.395-1.949-1.098-2.652-.704-.703-1.657-1.098-2.652-1.098h-19.185c-.924 0-1.815-.341-2.502-.958-.576-.517-1.285-1.151-1.861-1.668-.688-.616-1.579-.958-2.503-.958h-10.131c-.995 0-1.948.396-2.652 1.099-.703.703-1.098 1.657-1.098 2.651v24.189c0 2.071 1.679 3.75 3.75 3.75h36.182c2.071 0 3.75-1.679 3.75-3.75z" fill="url(#a)"/>
+ <path d="m19.253 32.041h1.67v1.861h-1.67v1.776h-1.86v-1.776h-1.668v-1.861h1.668v-1.776h1.86zm8.371-16.953 4.651 4.65v12.749c0 .375-.149.735-.414 1-.266.266-.626.415-1.001.415-.257 0-.445 0-.445 0v-12.251h-4.46v-4.703h-6.702v6.583l-1.86.034v-7.082c0-.773.623-1.395 1.395-1.395zm1.884 18.814h-1.86v-1.861h1.86zm-5.76 0h-1.86v-1.861h1.86zm2.946 0h-1.86v-1.861h1.86zm-7.441-4.615h-1.86v-1.86h1.86zm0-2.932h-1.86v-1.86h1.86z" fill="url(#b)"/>
 </svg>
