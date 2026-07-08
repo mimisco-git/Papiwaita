@@ -1,26 +1,27 @@
 # Papiwaita Icon Theme
 
-A custom icon theme combining Papirus-Dark app icons with Adwaita symbolic system icons for GNOME.
+A custom icon theme combining Papirus-Dark app icons with Adwaita symbolic system icons and Kora folder and file manager icons for GNOME.
+
+## Preview
+![Preview](preview.png)
 
 ## Features
 - App icons from Papirus-Dark
 - System tray icons from Adwaita (battery, WiFi, volume etc)
+- Folder icons from Kora
+- File manager icons from Kora
+- LibreOffice icons from Kora
 - Lightweight and minimal
 - Perfect for GNOME dark setups
 
 ## Installation
-1. Download or clone this repo
-2. Copy Papiwaita folder to ~/.local/share/icons/
-3. Open GNOME Tweaks
-4. Go to Appearance, Icons
-5. Select Papiwaita
-
-## Requirements
-- GNOME desktop
-- papirus-icon-theme installed
-- Adwaita icon theme (default on GNOME)
+1. Make sure Papirus-Dark is installed: `sudo apt install papirus-icon-theme`
+2. Clone this repo: `git clone git@github.com:mimisco-git/Papiwaita.git`
+3. Copy to icons folder: `cp -r Papiwaita ~/.local/share/icons/`
+4. Open GNOME Tweaks, Appearance, Icons and select Papiwaita
 
 ## Credits
 - App icons: Papirus Development Team
 - System icons: GNOME Adwaita Team
+- Folder and file manager icons: Kora by bikass
 - Combined by: mimisco-git

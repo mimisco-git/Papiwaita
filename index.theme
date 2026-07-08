@@ -1,8 +1,8 @@
 [Icon Theme]
 Name=Papiwaita
-Comment=Papirus app icons with Adwaita symbolic system icons
+Comment=Papirus,Kora app icons with Adwaita symbolic system icons
 Inherits=Papirus-Dark,Adwaita
-Directories=16x16/apps,22x22/apps,24x24/apps,32x32/apps,48x48/apps,64x64/apps,symbolic/status,symbolic/devices,symbolic/actions
+Directories=16x16/apps,22x22/apps,24x24/apps,32x32/apps,48x48/apps,64x64/apps,16x16/places,22x22/places,24x24/places,32x32/places,48x48/places,64x64/places,symbolic/status,symbolic/devices,symbolic/actions
 
 [16x16/apps]
 Size=16
@@ -25,6 +25,30 @@ Size=48
 Type=Fixed
 
 [64x64/apps]
+Size=64
+Type=Fixed
+
+[16x16/places]
+Size=16
+Type=Fixed
+
+[22x22/places]
+Size=22
+Type=Fixed
+
+[24x24/places]
+Size=24
+Type=Fixed
+
+[32x32/places]
+Size=32
+Type=Fixed
+
+[48x48/places]
+Size=48
+Type=Fixed
+
+[64x64/places]
 Size=64
 Type=Fixed
 
